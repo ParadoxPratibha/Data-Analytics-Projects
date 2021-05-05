@@ -10,7 +10,7 @@
 --          gender, birth_date, street, town, 
 --          county)
 -- likes (person_id, food)
--- knows(person_id, friend_id)
+-- knows (person_id, friend_id)
 
 -- =================================================
 -- List the names (first and last) of all those 
