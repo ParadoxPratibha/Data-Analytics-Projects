@@ -1,7 +1,5 @@
 # Data-Analytics-Projects
-#
 ## This Repository is aimed at showcasing various projects I've created from scratch involving some form of data analysis/manipulation
-#
 ## CONTENTS: 
 #
 ### **COVID Vaccinations Data**
